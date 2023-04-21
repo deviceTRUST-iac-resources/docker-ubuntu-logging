@@ -51,3 +51,5 @@ services:
 volumes:
   mongodb_data:
   es_data:
+  graylog_data:
+  graylog_journal:
